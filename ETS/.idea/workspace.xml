@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ed681c7-bea4-4465-ad70-87948ec1a810" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/Exiit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/model/class.names" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/model/class.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/Btech 3rd/6/New folder/Smartparking/yolov3-from-opencv-object-detection/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/Btech 3rd/Minor/Minor/Entry_Gate.py" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/Btech 3rd/Minor/Minor/Entry_Gate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/model/class.names" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/model/class.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UPES/pythonProject/yolov3-from-opencv-object-detection/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UPES/Btech 3rd" />
+  </component>
+  <component name="ProjectId" id="2lWftcK4ddvrKkCjRnNSO8yjAPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed681c7-bea4-4465-ad70-87948ec1a810" name="Changes" comment="" />
+      <created>1725300971212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725300971212</updated>
+    </task>
+    <servers />
+  </component>
+</project>
