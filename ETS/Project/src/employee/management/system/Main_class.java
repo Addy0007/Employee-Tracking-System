@@ -8,7 +8,7 @@ public class Main_class extends JFrame {
 
     Main_class(){
 
-        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icons/home.jpg"));
+        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icons/pngtree-modern-double-color-futu.jpg"));
         Image i2 = i1.getImage().getScaledInstance(1120, 630, Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);
         JLabel image = new JLabel(i3);
@@ -17,6 +17,7 @@ public class Main_class extends JFrame {
 
         JLabel heading = new JLabel("Employee Management System");
         heading.setBounds(350, 150, 400, 50);
+        heading.setForeground(Color.WHITE);
         heading.setFont(new Font("Raleway", Font.BOLD, 25));
         image.add(heading);
 

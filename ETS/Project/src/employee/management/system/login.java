@@ -177,7 +177,7 @@ class BackgroundPanel extends JPanel {
 
     public BackgroundPanel() {
         try {
-            backgroundImage = new ImageIcon("C:\\Desktop\\MajorP\\Project\\src\\icons\\background.jpg").getImage();
+            backgroundImage = new ImageIcon("C:\\Desktop\\ProjectETS\\ETS\\Project\\src\\icons\\background.jpg").getImage();
         } catch (Exception e) {
             e.printStackTrace();
         }
